@@ -1,0 +1,22 @@
+saeeun.dothome.co.kr/myadmin
+anvktk0037!!
+
+saeeun.dothome.co.kr/kurly/signup.php
+
+
+
+데이터베이스 설계
+
+idx AI
+문자열 가변길이 VARCHR(16)
+ID : 문자열 16
+비밀번호 PW : 문자열 16
+이름 name : 문자열 30
+이메일 e-mail : 문자열 250
+휴대폰 HP : 문자열 13 010-
+주소 addr : 주소1 + 주소2 문자열 500
+성별 gender : 문자열 4
+생년월일 birth : 생년 - 생원 - 생일 문자열 10
+추가입력사항 chooga : 문자열 250
+이용약관동의 service : 문자열 1000
+가입일 date : 가입일시분초(db 자동저장)
